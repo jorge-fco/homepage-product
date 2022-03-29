@@ -1,1 +1,5 @@
 .ds_store
+prepros.config
+assets/js/*
+assets/css/*
+assets/scss/*
