@@ -1,5 +1,11 @@
 # Homepage Product
 Home page
 
-# References
-[ouiwill website](https://www.ouiwill.com/)
+## Assets
+- GSAP
+- imgLiquid
+- jQuery
+
+## References
+- [callbruno](https://www.callbruno.com/en/)
+- [ouiwill website](https://www.ouiwill.com/)
