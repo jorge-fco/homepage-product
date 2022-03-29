@@ -1,11 +1,14 @@
 # Homepage Product
-Home page
+⚡️Homepage
 
-## Assets
+- Favicons
+- Facebook ID
+
+## 📦 Assets
 - GSAP
 - imgLiquid
 - jQuery
 
-## References
+## 📎 References
 - [callbruno](https://www.callbruno.com/en/)
 - [ouiwill website](https://www.ouiwill.com/)
