@@ -1,6 +1,7 @@
 # Homepage Product
-⚡️Homepage
+⚡️Homepage – [Live preview](https://codepen.io/jorge-fco/full/KKZWmKV)
 
+## Deploy
 - Favicons
 - Facebook ID
 
